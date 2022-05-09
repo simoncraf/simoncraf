@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me simonegigante17@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoncraf)](https://github.com/simoncraf/football_scraper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoncraf)](https://github.com/simoncraf)
 
 
 <!---
