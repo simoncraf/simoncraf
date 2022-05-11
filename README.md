@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me simonegigante17@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoncraf&layout=compact)](https://github.com/simoncraf/p_42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoncraf&layout=compact)](https://github.com/simoncraf/p42)
 
 
 <!---
