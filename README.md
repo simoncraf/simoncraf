@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @simoncraf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Machine Learning and building Applications
+- 🌱 I’m currently learning React
 - 📫 How to reach me simonegigante17@gmail.com
 
 ### Languages 👨‍💻
