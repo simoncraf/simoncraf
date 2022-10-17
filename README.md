@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simoncraf
-- 👀 I’m interested in Java, Data Science, Machine Learning and building Applications
+- 👀 I’m interested in Flutter, Java, Data Science, Machine Learning and building Applications
 - 📫 How to reach me simonegigante17@gmail.com
 
 ### Languages 👨‍💻
