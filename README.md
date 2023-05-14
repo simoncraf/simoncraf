@@ -2,6 +2,10 @@
 - 👀 I’m interested in Python, Flutter, Java, Data Science, Machine Learning and building Applications
 - 📫 How to reach me simonegigante17@gmail.com
 
+💻 **Open source work stats**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simoncraf&show_icons=true&theme=tokyonight)
+
 ### Languages 👨‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
