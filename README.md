@@ -2,6 +2,9 @@
 
 I enjoy building things that I wish existed.
 
+## Projects
+- 🔍 [**coauthorcheck**](https://github.com/simoncraf/coauthorcheck) – Lightweight validator for `Co-authored-by` commit trailers in CLI, pre-commit hooks, and GitHub Actions.
+
 ## Recent blog posts on [simonegigante.com](https://simonegigante.com)
 
 - [One Template to Rule Them All: Creating and Managing Python Projects with Cookiecutter and Cruft](https://www.simonegigante.com/posts/cruft/cruft/)
