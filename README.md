@@ -7,6 +7,7 @@ I enjoy building things that I wish existed.
 
 ## Recent blog posts on [simonegigante.com](https://simonegigante.com)
 
+- [Understanding Git Commit Trailers](https://www.simonegigante.com/posts/commit-trailers/)
 - [One Template to Rule Them All: Creating and Managing Python Projects with Cookiecutter and Cruft](https://www.simonegigante.com/posts/cruft/cruft/)
 
 <!---
