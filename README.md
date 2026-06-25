@@ -4,6 +4,7 @@ I enjoy building things that I wish existed.
 
 ## Projects
 - 🔍 [**coauthorcheck**](https://github.com/simoncraf/coauthorcheck) – Lightweight validator for `Co-authored-by` commit trailers in CLI, pre-commit hooks, and GitHub Actions.
+- ⚽ [**Golazo Arcade**](https://www.golazoarcade.com/) - Football trivia minigames for people who spend too much time on Transfermarkt.
 
 ## Recent blog posts on [simonegigante.com](https://simonegigante.com)
 
